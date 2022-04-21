@@ -51,4 +51,6 @@ If you use Maven, you can run the application by using ./mvnw spring-boot:run. A
 java -jar target/gs-uploading-files-0.1.0.jar
 The steps described here create a runnable JAR. You can also build a classic WAR file.
 
+That runs the server-side piece that receives file uploads. Logging output is displayed. The service should be up and running within a few seconds.
+
 */
