@@ -53,4 +53,6 @@ The steps described here create a runnable JAR. You can also build a classic WAR
 
 That runs the server-side piece that receives file uploads. Logging output is displayed. The service should be up and running within a few seconds.
 
+With the server running, you need to open a browser and visit http://localhost:8080/ to see the upload form. Pick a (small) file and press Upload. You should see the success page from the controller. If you choose a file that is too large, you will get an ugly error page.
+
 */
