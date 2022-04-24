@@ -55,4 +55,8 @@ That runs the server-side piece that receives file uploads. Logging output is di
 
 With the server running, you need to open a browser and visit http://localhost:8080/ to see the upload form. Pick a (small) file and press Upload. You should see the success page from the controller. If you choose a file that is too large, you will get an ugly error page.
 
+You should then see a line resembling the following in your browser window:
+
+“You successfully uploaded <name of your file>!”
+
 */
