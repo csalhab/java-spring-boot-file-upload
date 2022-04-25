@@ -61,4 +61,6 @@ You should then see a line resembling the following in your browser window:
 
 Testing Your Application
 
+There are multiple ways to test this particular feature in our application. The following listing (from src/test/java/com/example/uploadingfiles/FileUploadTests.java) shows one example that uses MockMvc so that it does not require starting the servlet container:
+
 */
