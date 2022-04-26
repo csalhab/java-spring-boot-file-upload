@@ -25,6 +25,11 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 import com.example.uploadingfiles.storage.StorageFileNotFoundException;
 import com.example.uploadingfiles.storage.StorageService;
 
+/*
+Testing Your Application
+There are multiple ways to test this particular feature in our application. The following listing (from src/test/java/com/example/uploadingfiles/FileUploadTests.java) shows one example that uses MockMvc so that it does not require starting the servlet container:
+*/
+
 @AutoConfigureMockMvc
 @SpringBootTest
 public class FileUploadTests {
