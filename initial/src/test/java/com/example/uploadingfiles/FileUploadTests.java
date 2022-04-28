@@ -73,4 +73,8 @@ public class FileUploadTests {
 		this.mvc.perform(get("/files/test.txt")).andExpect(status().isNotFound());
 	}
 
+/*
+	In those tests, you use various mocks to set up the interactions with your controller and the 
+	StorageService but also with the Servlet container itself by using MockMultipartFile.
+*/
 }
