@@ -76,5 +76,10 @@ public class FileUploadTests {
 /*
 	In those tests, you use various mocks to set up the interactions with your controller and the 
 	StorageService but also with the Servlet container itself by using MockMultipartFile.
+
+	For an example of an integration test, see the FileUploadIntegrationTests class 
+	(which is in src/test/java/com/example/uploadingfiles).
+
+
 */
 }
