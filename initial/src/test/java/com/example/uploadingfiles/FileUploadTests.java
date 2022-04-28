@@ -80,6 +80,9 @@ public class FileUploadTests {
 	For an example of an integration test, see the FileUploadIntegrationTests class 
 	(which is in src/test/java/com/example/uploadingfiles).
 
+	Summary
+	Congratulations! You have just written a web application that uses Spring to handle file uploads.
+
 
 */
 }
