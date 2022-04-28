@@ -87,12 +87,16 @@ public class FileUploadTests {
 	The following guides may also be helpful:
 
 	Serving Web Content with Spring MVC
+	https://spring.io/guides/gs/serving-web-content/
 
 	Handling Form Submission
+	https://spring.io/guides/gs/handling-form-submission/
 
 	Securing a Web Application
+	https://spring.io/guides/gs/securing-web/
 
 	Building an Application with Spring Boot
+	https://spring.io/guides/gs/spring-boot/
 
 
 */
