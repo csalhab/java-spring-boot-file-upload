@@ -83,6 +83,17 @@ public class FileUploadTests {
 	Summary
 	Congratulations! You have just written a web application that uses Spring to handle file uploads.
 
+	See Also
+	The following guides may also be helpful:
+
+	Serving Web Content with Spring MVC
+
+	Handling Form Submission
+
+	Securing a Web Application
+
+	Building an Application with Spring Boot
+
 
 */
 }
